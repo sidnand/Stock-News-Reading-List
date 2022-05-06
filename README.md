@@ -5,6 +5,8 @@ A Python application that takes a list of stock ticker symbols and returns an Ex
 ## Usage
 
 ```bash
+pip install bs4 pandas requests
+
 python main.py
 
 Welcome to the Stock Scraper!
