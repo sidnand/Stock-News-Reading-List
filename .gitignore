@@ -1,0 +1,4 @@
+.DS_Store
+__pycache__/
+reading_list.xlsx
+News.py
